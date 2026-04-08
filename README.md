@@ -12,4 +12,17 @@ Scans ports in your specified range using multithreading
 Displays a detailed results table with open ports, services, and a summary
 No external libraries required!
 
+!!!!INSTALLATION PROCESS!!!! 
+
+#clone this repo
+
+git clone https://github.com/sk4mx/PORT-SCANNER-.git
+#change dir
+
+cd PORT-SCANNER-
+ls
+#Run the code..
+
+python portscanner.py
+
 
