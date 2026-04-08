@@ -5,7 +5,7 @@ A fast, threaded Python port scanner with automatic ping verification \u2014 inp
 �
 �
 �
-\ud83d\udcd6 Overview
+Overview
 PyPortScanner is a lightweight command-line tool that:
 Accepts a domain name as input
 Automatically resolves it to an IP
